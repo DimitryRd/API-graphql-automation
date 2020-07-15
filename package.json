@@ -1,0 +1,15 @@
+{
+  "name": "startit-api",
+  "version": "1.0.0",
+  "description": "API testing project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Dimitry Rudakov",
+  "license": "ISC",
+  "dependencies": {
+    "frisby": "2.1.1",
+    "mocha": "6.1.4"
+  }
+}
